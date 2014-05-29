@@ -1,0 +1,17 @@
+{
+  "name": "nastechnology-winautologon",
+  "version": "0.1.0",
+  "author": "nastechnology",
+  "summary": "Enable autologon for the selected user on a windows machine.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/nastechnology/nastechnology-winautologon",
+  "project_page": "https://github.com/nastechnology/nastechnology-winautologon",
+  "issues_url": "https://github.com/nastechnology/nastechnology-winautologon/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
